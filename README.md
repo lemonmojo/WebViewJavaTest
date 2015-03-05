@@ -1,7 +1,7 @@
 # WebViewJavaTest
 Sample project to reproduce the following Cocoa WebView bug:
 
-When using a Cocoa `WebView` with a page that has an embedded Java applet, there's a pink rectangle in place of the applet.
+When using a Cocoa `WebView` with a page that has an embedded Java applet, there's a pink rectangle or transparent space in place of the applet.
 This is reproducible for me on OS X 10.10.2 with Safari 8.0.3 (10600.3.18). I have not tested it on other OS X or Safari versions.
 
 ###Steps to reproduce
