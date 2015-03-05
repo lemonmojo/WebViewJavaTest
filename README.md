@@ -14,5 +14,8 @@ This is reproducible for me on OS X 10.10.2 with Safari 8.0.3 (10600.3.18). I ha
 Pink Rectangle instead of Java applet:
 ![Pink Rectangle instead of Java applet](https://raw.githubusercontent.com/lemonmojo/WebViewJavaTest/master/Screenshot.png)
 
+Transparent space instead of Java applet:
+![Transparent space instead of Java applet](https://raw.githubusercontent.com/lemonmojo/WebViewJavaTest/master/Screenshot.png)
+
 Same page in Safari:
 ![Same page in Safari](https://raw.githubusercontent.com/lemonmojo/WebViewJavaTest/master/Screenshot_Safari.png)
