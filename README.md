@@ -5,6 +5,7 @@ When using a Cocoa `WebView` with a page that has an embedded Java applet, there
 This is reproducible for me on OS X 10.10.2 with Safari 8.0.3 (10600.3.18). I have not tested it on other OS X or Safari versions.
 
 ###Steps to reproduce
+- Make sure [http://javatester.org/version.html](http://javatester.org/version.html) is added to the allowed websites for the Java plug-in in Safari.
 - Build and start the sample.
 - The Java applet that should display the Java version shows a pink rectangle instead.
 - On some systems (ie. Retina MacBook Pro), instead of the pink rectangle there's a transparent space.
