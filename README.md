@@ -7,6 +7,7 @@ This is reproducible for me on OS X 10.10.2 with Safari 8.0.3 (10600.3.18). I ha
 ###Steps to reproduce
 - Build and start the sample.
 - The Java applet that should display the Java version shows a pink rectangle instead.
+- On some systems (ie. Retina MacBook Pro), instead of the pink rectangle there's a transparent space.
 - The same page ([http://javatester.org/version.html](http://javatester.org/version.html)) works fine in Safari.
 
 ###Screenshots
