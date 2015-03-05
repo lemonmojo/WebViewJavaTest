@@ -4,4 +4,8 @@ Sample project to reproduce the following Cocoa WebView bug:
 When using a Cocoa `WebView` with a page that has an embedded Java applet, there's a pink rectangle in place of the applet.
 
 ###Screenshots
+Pink Rectangle instead of Java applet:
 ![Pink Rectangle instead of Java applet](https://raw.githubusercontent.com/lemonmojo/WebViewJavaTest/master/Screenshot.png)
+
+Same page in Safari:
+![Same page in Safari](https://raw.githubusercontent.com/lemonmojo/WebViewJavaTest/master/Screenshot_Safari.png)
