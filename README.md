@@ -15,7 +15,7 @@ Pink Rectangle instead of Java applet:
 ![Pink Rectangle instead of Java applet](https://raw.githubusercontent.com/lemonmojo/WebViewJavaTest/master/Screenshot.png)
 
 Transparent space instead of Java applet:
-![Transparent space instead of Java applet](https://raw.githubusercontent.com/lemonmojo/WebViewJavaTest/master/Screenshot.png)
+![Transparent space instead of Java applet](https://raw.githubusercontent.com/lemonmojo/WebViewJavaTest/master/Screenshot_RetinaMBP.png)
 
 Same page in Safari:
 ![Same page in Safari](https://raw.githubusercontent.com/lemonmojo/WebViewJavaTest/master/Screenshot_Safari.png)
